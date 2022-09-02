@@ -44,7 +44,8 @@ The following image shows the web application's appearance and functionality:
 
 ## GitHub Repository Url
 
-
+https://github.com/AramA89/Password-Generator
 
 ## Deployed Webpage Url
 
+https://arama89.github.io/Password-Generator/
